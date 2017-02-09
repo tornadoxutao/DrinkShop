@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ef29ec238e1bad6c47297595fada8d7a7d794ff0">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_86e96d4161c1bf4faf2068f47db0d0c20560f212/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/androidsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7184042f6c05fec2d8181306aa6873079b65e611">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidsdk_29d66c04f1096c9aaea8f2018d08e7503fac754a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="612ce0b45e5d70383d8548bcfe6c8c5b1271617d">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_75e19efc6d891dbbbe557724859c3f6fd1c720e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20afab3bb7bbfaaffbf501780a9376285c83ff8">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78b9c87a330f0bee4e854bd2168555d96d788970/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/pushservice-4.4.0.71.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9509cfa0c9817d0905fc6f9b0d417a4730884966">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/pushservice-4.4.0.71_a778df77fb69083a4ebb66ae9d03ea2d76999805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/universal-image-loader-1.8.6-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ad605dd55be2e74e614b2ab2ff466439c4461b7">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.8.6-with-sources_2f4070cb496f40a849dd3cd3ebd865f185aa4dd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/UPPayPluginExPro.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95b3d8d188aee8dd3d18c25b4ec46bbcdd93824d">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/UPPayPluginExPro_4dea4ae9c05e7241989f118d2ddb38ccb47ab0b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/alipaysdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61551cf6e23c5133046a07ec6cd9dee6aa5c78a0">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaysdk_0c2607a9ce0c58a4f8390958d826ebcc644e4127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_967b6ff0f15cae4f3df8e2a3b317f2b79cd91848/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/androidsdkcomponent.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90a059ec3467d0585563cf034d6fe910c75a28fc">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/androidsdkcomponent_814f1661186ac30624bba8892b72478e0c5fa8b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/alipaysecsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7413c074c9edf523050267b93d0875151dc4b644">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipaysecsdk_df6b0ae996f197b91d93d10899e6a906a141b45c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="350b120693658e9731082b1753c7f4be2540e2d5">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6dde8fbd3d6459cb9d750d8ee6614c3069675b28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_7e227f481c42d467d6d1921958186d755469d48d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/UPPayAssistEx.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06ff45e2f35db618401097141bb18a8c79994616">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/UPPayAssistEx_82b083a855a6202565b2b8dfe33d2503f72fe0b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/umeng_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f215292edd3cea48bea39811c7bc814a09d4481a">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_sdk_e2cf0473412d4ee75ce54316b5f99c0c02b540f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/weibosdkcore.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd767db6c90e98697ee1ca76372b806828c6ff50">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/weibosdkcore_db33dcf025347c671f079da1daa6ff5e195c695c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_0181aeb277008e244057cb4417bbbec2939a787b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/alipayutdid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4345fa0a5a7768f2f9c86aaab7db9e2906765193">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/alipayutdid_fa666d5fad672754abaeb6386d61b4bbdb1cd5b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/libs/commons-httpclient-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6364bcc1b2b2aa69d008602d36a700453648560">
+        <dex dex="/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/2/commons-httpclient-3.0.1_b0656fae7bce576857c671c39120d419f6ee77d5/classes.dex" />
+    </item>
+
+</items>

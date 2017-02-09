@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/res/merged/debug/color/vpi__dark_theme.xml",
+        "source": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/src/main/res/color/vpi__dark_theme.xml"
+    },
+    {
+        "merged": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/res/merged/debug/color/vpi__light_theme.xml",
+        "source": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/src/main/res/color/vpi__light_theme.xml"
+    }
+]

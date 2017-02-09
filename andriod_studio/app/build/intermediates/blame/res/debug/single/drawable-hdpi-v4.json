@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tuitional_bg.jpg",
+        "source": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/src/main/res/drawable-hdpi/tuitional_bg.jpg"
+    },
+    {
+        "merged": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/closed.jpg",
+        "source": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/src/main/res/drawable-hdpi/closed.jpg"
+    },
+    {
+        "merged": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_img_bg.jpg",
+        "source": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/src/main/res/drawable-hdpi/profile_img_bg.jpg"
+    },
+    {
+        "merged": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/expired_568h.jpg",
+        "source": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/src/main/res/drawable-hdpi/expired_568h.jpg"
+    },
+    {
+        "merged": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/splash_background.xml",
+        "source": "/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/src/main/res/drawable-hdpi/splash_background.xml"
+    }
+]

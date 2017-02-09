@@ -1,0 +1,7 @@
+#Thu Feb 09 08:49:10 CST 2017
+base.0=/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78b9c87a330f0bee4e854bd2168555d96d788970
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6dde8fbd3d6459cb9d750d8ee6614c3069675b28/classes.dex
+base.1=/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6dde8fbd3d6459cb9d750d8ee6614c3069675b28
+file.0=/Users/xutao/dev/andriod_code/Shop_AndriodStudio/andriod_studio/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_78b9c87a330f0bee4e854bd2168555d96d788970/classes.dex
